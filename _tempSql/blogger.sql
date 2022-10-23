@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS `blogger` CHARSET `utf8mb4`;
